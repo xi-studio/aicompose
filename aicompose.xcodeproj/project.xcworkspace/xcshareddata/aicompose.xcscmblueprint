@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "465382AFBB1E4EED0AC9FC5530239E24414C9C92",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5C0CF757CB920F47AEB6035D536B7F1E2BB0C345" : 9223372036854775807,
+    "465382AFBB1E4EED0AC9FC5530239E24414C9C92" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "7726234D-D4A2-48CD-A7A5-398F8C02594A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5C0CF757CB920F47AEB6035D536B7F1E2BB0C345" : "aicompose\/Frameworks\/MIKMIDI\/",
+    "465382AFBB1E4EED0AC9FC5530239E24414C9C92" : "aicompose\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "aicompose",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "aicompose.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:xi-studio\/aicompose.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "465382AFBB1E4EED0AC9FC5530239E24414C9C92"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mixedinkey-opensource\/MIKMIDI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5C0CF757CB920F47AEB6035D536B7F1E2BB0C345"
+    }
+  ]
+}
